@@ -1,0 +1,1132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<NPIList>
+  <NPI>
+    <NPI>1538294483</NPI>
+    <EntityType>Organization</EntityType>
+    <EIN>N/A</EIN>
+    <IsOrgSubpart>N</IsOrgSubpart>
+    <OrgName>HEARTLAND ALLIANCE HEALTH</OrgName>
+    <OtherOrgName>HEARTLAND HEALTH OUTREACH, INC.</OtherOrgName>
+    <OtherOrgNameTypeCode>4</OtherOrgNameTypeCode>
+    <FirstLineMailingAddress>1015 W LAWRENCE AVE</FirstLineMailingAddress>
+    <MailingAddressCityName>CHICAGO</MailingAddressCityName>
+    <MailingAddressStateName>IL</MailingAddressStateName>
+    <MailingAddressPostalCode>60640-5017</MailingAddressPostalCode>
+    <MailingAddressCountryCode>US</MailingAddressCountryCode>
+    <MailingAddressTelephoneNumber>773-751-4129</MailingAddressTelephoneNumber>
+    <MailingAddressFaxNumber>773-751-4175</MailingAddressFaxNumber>
+    <FirstLinePracticeLocationAddress>1015 W LAWRENCE AVE</FirstLinePracticeLocationAddress>
+    <PracticeLocationAddressCityName>CHICAGO</PracticeLocationAddressCityName>
+    <PracticeLocationAddressStateName>IL</PracticeLocationAddressStateName>
+    <PracticeLocationAddressPostalCode>60640-5017</PracticeLocationAddressPostalCode>
+    <PracticeLocationAddressCountryCode>US</PracticeLocationAddressCountryCode>
+    <PracticeLocationAddressTelephoneNumber>773-275-2060</PracticeLocationAddressTelephoneNumber>
+    <PracticeLocationAddressFaxNumber>773-275-3689</PracticeLocationAddressFaxNumber>
+    <EnumerationDate>02/22/2007</EnumerationDate>
+    <LastUpdateDate>10/31/2018</LastUpdateDate>
+    <AuthorizedOfficialLastName>STELLON</AuthorizedOfficialLastName>
+    <AuthorizedOfficialFirstName>EDWARD</AuthorizedOfficialFirstName>
+    <AuthorizedOfficialTitle>EXECUTIVE DIRECTOR</AuthorizedOfficialTitle>
+    <AuthorizedOfficialTelephoneNumber>312-405-0802</AuthorizedOfficialTelephoneNumber>
+    <TaxonomyCode1>251B00000X</TaxonomyCode1>
+    <Taxonomy1>Case Management</Taxonomy1>
+    <LicenseNumber1>=========</LicenseNumber1>
+    <LicenseNumberStateCode1>IL</LicenseNumberStateCode1>
+    <PrimaryTaxonomySwitch1>N</PrimaryTaxonomySwitch1>
+    <TaxonomyCode2>251S00000X</TaxonomyCode2>
+    <Taxonomy2>Community/Behavioral Health</Taxonomy2>
+    <LicenseNumber2>=========</LicenseNumber2>
+    <LicenseNumberStateCode2>IL</LicenseNumberStateCode2>
+    <PrimaryTaxonomySwitch2>N</PrimaryTaxonomySwitch2>
+    <TaxonomyCode3>261QF0400X</TaxonomyCode3>
+    <Taxonomy3>Federally Qualified Health Center (FQHC)</Taxonomy3>
+    <LicenseNumber3>=========</LicenseNumber3>
+    <LicenseNumberStateCode3>IL</LicenseNumberStateCode3>
+    <PrimaryTaxonomySwitch3>Y</PrimaryTaxonomySwitch3>
+    <OtherIdentifier1>=========</OtherIdentifier1>
+    <OtherIdentifierType1>OTHER</OtherIdentifierType1>
+    <OtherIdentifierState1>IL</OtherIdentifierState1>
+    <OtherIdentifierIssuer1>EIN</OtherIdentifierIssuer1>
+  </NPI>
+  <NPI>
+    <NPI>1588825749</NPI>
+    <EntityType>Organization</EntityType>
+    <EIN>N/A</EIN>
+    <IsOrgSubpart>N</IsOrgSubpart>
+    <OrgName>HEARTLAND ALLIANCE HEALTH</OrgName>
+    <OtherOrgName>CHICAGO HEALTH OUTREACH</OtherOrgName>
+    <OtherOrgNameTypeCode>4</OtherOrgNameTypeCode>
+    <FirstLineMailingAddress>4750 N SHERIDAN ROAD, ROOM 449</FirstLineMailingAddress>
+    <MailingAddressCityName>CHICAGO</MailingAddressCityName>
+    <MailingAddressStateName>IL</MailingAddressStateName>
+    <MailingAddressPostalCode>60640-5095</MailingAddressPostalCode>
+    <MailingAddressCountryCode>US</MailingAddressCountryCode>
+    <MailingAddressTelephoneNumber>773-751-4104</MailingAddressTelephoneNumber>
+    <MailingAddressFaxNumber>773-751-4174</MailingAddressFaxNumber>
+    <FirstLinePracticeLocationAddress>4750 N SHERIDAN ROAD</FirstLinePracticeLocationAddress>
+    <SecondLinePracticeLocationAddress>SUITE 500</SecondLinePracticeLocationAddress>
+    <PracticeLocationAddressCityName>CHICAGO</PracticeLocationAddressCityName>
+    <PracticeLocationAddressStateName>IL</PracticeLocationAddressStateName>
+    <PracticeLocationAddressPostalCode>60640-5095</PracticeLocationAddressPostalCode>
+    <PracticeLocationAddressCountryCode>US</PracticeLocationAddressCountryCode>
+    <PracticeLocationAddressTelephoneNumber>773-751-4125</PracticeLocationAddressTelephoneNumber>
+    <PracticeLocationAddressFaxNumber>773-751-4174</PracticeLocationAddressFaxNumber>
+    <EnumerationDate>06/20/2008</EnumerationDate>
+    <LastUpdateDate>10/31/2018</LastUpdateDate>
+    <AuthorizedOfficialLastName>STELLON</AuthorizedOfficialLastName>
+    <AuthorizedOfficialFirstName>EDWARD</AuthorizedOfficialFirstName>
+    <AuthorizedOfficialTitle>EXECUTIVE DIRECTOR</AuthorizedOfficialTitle>
+    <AuthorizedOfficialTelephoneNumber>312-405-0802</AuthorizedOfficialTelephoneNumber>
+    <TaxonomyCode1>251B00000X</TaxonomyCode1>
+    <Taxonomy1>Case Management</Taxonomy1>
+    <PrimaryTaxonomySwitch1>N</PrimaryTaxonomySwitch1>
+    <TaxonomyCode2>251S00000X</TaxonomyCode2>
+    <Taxonomy2>Community/Behavioral Health</Taxonomy2>
+    <LicenseNumber2>20</LicenseNumber2>
+    <LicenseNumberStateCode2>IL</LicenseNumberStateCode2>
+    <PrimaryTaxonomySwitch2>N</PrimaryTaxonomySwitch2>
+    <TaxonomyCode3>261QM0801X</TaxonomyCode3>
+    <Taxonomy3>Mental Health (Including Community Mental Health Center)</Taxonomy3>
+    <LicenseNumber3>020</LicenseNumber3>
+    <LicenseNumberStateCode3>IL</LicenseNumberStateCode3>
+    <PrimaryTaxonomySwitch3>N</PrimaryTaxonomySwitch3>
+    <TaxonomyCode4>251S00000X</TaxonomyCode4>
+    <Taxonomy4>Community/Behavioral Health</Taxonomy4>
+    <LicenseNumber4>020</LicenseNumber4>
+    <LicenseNumberStateCode4>IL</LicenseNumberStateCode4>
+    <PrimaryTaxonomySwitch4>Y</PrimaryTaxonomySwitch4>
+    <OtherIdentifier1>020</OtherIdentifier1>
+    <OtherIdentifierType1>MEDICAID</OtherIdentifierType1>
+    <OtherIdentifierState1>IL</OtherIdentifierState1>
+  </NPI>
+  <NPI>
+    <NPI>1306279070</NPI>
+    <EntityType>Organization</EntityType>
+    <EIN>N/A</EIN>
+    <IsOrgSubpart>Y</IsOrgSubpart>
+    <ParentOrgLBN>HEARTLAND HEALTH OUTREACH INC</ParentOrgLBN>
+    <ParentOrgTIN>N/A</ParentOrgTIN>
+    <OrgName>HEARTLAND ALLIANCE HEALTH</OrgName>
+    <OtherOrgName>HEARTLAND HEALTH OUTREACH, INC.</OtherOrgName>
+    <OtherOrgNameTypeCode>4</OtherOrgNameTypeCode>
+    <FirstLineMailingAddress>1015 W LAWRENCE AVE</FirstLineMailingAddress>
+    <MailingAddressCityName>CHICAGO</MailingAddressCityName>
+    <MailingAddressStateName>IL</MailingAddressStateName>
+    <MailingAddressPostalCode>60640-5017</MailingAddressPostalCode>
+    <MailingAddressCountryCode>US</MailingAddressCountryCode>
+    <MailingAddressTelephoneNumber>773-751-4129</MailingAddressTelephoneNumber>
+    <FirstLinePracticeLocationAddress>932 W WASHINGTON BLVD FL 2</FirstLinePracticeLocationAddress>
+    <PracticeLocationAddressCityName>CHICAGO</PracticeLocationAddressCityName>
+    <PracticeLocationAddressStateName>IL</PracticeLocationAddressStateName>
+    <PracticeLocationAddressPostalCode>60607-2217</PracticeLocationAddressPostalCode>
+    <PracticeLocationAddressCountryCode>US</PracticeLocationAddressCountryCode>
+    <PracticeLocationAddressTelephoneNumber>773-275-2586</PracticeLocationAddressTelephoneNumber>
+    <EnumerationDate>08/16/2013</EnumerationDate>
+    <LastUpdateDate>10/31/2018</LastUpdateDate>
+    <AuthorizedOfficialLastName>STELLON</AuthorizedOfficialLastName>
+    <AuthorizedOfficialFirstName>EDWARD</AuthorizedOfficialFirstName>
+    <AuthorizedOfficialTitle>EXECUTIVE DIRECTOR</AuthorizedOfficialTitle>
+    <AuthorizedOfficialTelephoneNumber>312-405-0802</AuthorizedOfficialTelephoneNumber>
+    <TaxonomyCode1>261QF0400X</TaxonomyCode1>
+    <Taxonomy1>Federally Qualified Health Center (FQHC)</Taxonomy1>
+    <LicenseNumber1>38369</LicenseNumber1>
+    <LicenseNumberStateCode1>IL</LicenseNumberStateCode1>
+    <PrimaryTaxonomySwitch1>Y</PrimaryTaxonomySwitch1>
+    <OtherIdentifier1>2283208</OtherIdentifier1>
+    <OtherIdentifierType1>OTHER</OtherIdentifierType1>
+    <OtherIdentifierState1>IL</OtherIdentifierState1>
+    <OtherIdentifierIssuer1>BUSINESS LICENSE</OtherIdentifierIssuer1>
+    <OtherIdentifier2>1306279070</OtherIdentifier2>
+    <OtherIdentifierType2>MEDICAID</OtherIdentifierType2>
+    <OtherIdentifierState2>IL</OtherIdentifierState2>
+  </NPI>
+  <NPI>
+    <NPI>1851828198</NPI>
+    <EntityType>Organization</EntityType>
+    <EIN>N/A</EIN>
+    <IsOrgSubpart>N</IsOrgSubpart>
+    <OrgName>HEARTLAND ALLIANCE HEALTH</OrgName>
+    <OtherOrgName>HEARTLAND HEALTH OUTREACH, INC.</OtherOrgName>
+    <OtherOrgNameTypeCode>4</OtherOrgNameTypeCode>
+    <FirstLineMailingAddress>4750 N SHERIDAN RD STE 435</FirstLineMailingAddress>
+    <MailingAddressCityName>CHICAGO</MailingAddressCityName>
+    <MailingAddressStateName>IL</MailingAddressStateName>
+    <MailingAddressPostalCode>60640-5078</MailingAddressPostalCode>
+    <MailingAddressCountryCode>US</MailingAddressCountryCode>
+    <MailingAddressTelephoneNumber>773-751-4129</MailingAddressTelephoneNumber>
+    <MailingAddressFaxNumber>773-751-4175</MailingAddressFaxNumber>
+    <FirstLinePracticeLocationAddress>5501 S HALSTED ST</FirstLinePracticeLocationAddress>
+    <PracticeLocationAddressCityName>CHICAGO</PracticeLocationAddressCityName>
+    <PracticeLocationAddressStateName>IL</PracticeLocationAddressStateName>
+    <PracticeLocationAddressPostalCode>60621-2229</PracticeLocationAddressPostalCode>
+    <PracticeLocationAddressCountryCode>US</PracticeLocationAddressCountryCode>
+    <PracticeLocationAddressTelephoneNumber>773-275-2586</PracticeLocationAddressTelephoneNumber>
+    <EnumerationDate>05/17/2017</EnumerationDate>
+    <LastUpdateDate>10/31/2018</LastUpdateDate>
+    <AuthorizedOfficialLastName>STELLON</AuthorizedOfficialLastName>
+    <AuthorizedOfficialFirstName>EDWARD</AuthorizedOfficialFirstName>
+    <AuthorizedOfficialTitle>EXECUTIVE DIRECTOR</AuthorizedOfficialTitle>
+    <AuthorizedOfficialCredential>MS</AuthorizedOfficialCredential>
+    <AuthorizedOfficialTelephoneNumber>312-405-0802</AuthorizedOfficialTelephoneNumber>
+    <TaxonomyCode1>251B00000X</TaxonomyCode1>
+    <Taxonomy1>Case Management</Taxonomy1>
+    <LicenseNumberStateCode1>IL</LicenseNumberStateCode1>
+    <PrimaryTaxonomySwitch1>N</PrimaryTaxonomySwitch1>
+    <TaxonomyCode2>251S00000X</TaxonomyCode2>
+    <Taxonomy2>Community/Behavioral Health</Taxonomy2>
+    <PrimaryTaxonomySwitch2>N</PrimaryTaxonomySwitch2>
+    <TaxonomyCode3>261QF0400X</TaxonomyCode3>
+    <Taxonomy3>Federally Qualified Health Center (FQHC)</Taxonomy3>
+    <PrimaryTaxonomySwitch3>Y</PrimaryTaxonomySwitch3>
+    <OtherIdentifier1>=========002</OtherIdentifier1>
+    <OtherIdentifierType1>MEDICAID</OtherIdentifierType1>
+    <OtherIdentifierState1>IL</OtherIdentifierState1>
+  </NPI>
+  <NPI>
+    <NPI>1144523150</NPI>
+    <EntityType>Organization</EntityType>
+    <EIN>N/A</EIN>
+    <IsOrgSubpart>N</IsOrgSubpart>
+    <OrgName>HEARTLAND HEALTH THERAPY, LLC</OrgName>
+    <OtherOrgName>SLEEP TESTING AND RESPIRATORY SERVICES</OtherOrgName>
+    <OtherOrgNameTypeCode>3</OtherOrgNameTypeCode>
+    <FirstLineMailingAddress>2330 W BROADWAY RD</FirstLineMailingAddress>
+    <SecondLineMailingAddress>SUITE 109</SecondLineMailingAddress>
+    <MailingAddressCityName>MESA</MailingAddressCityName>
+    <MailingAddressStateName>AZ</MailingAddressStateName>
+    <MailingAddressPostalCode>85202-1888</MailingAddressPostalCode>
+    <MailingAddressCountryCode>US</MailingAddressCountryCode>
+    <FirstLinePracticeLocationAddress>8436 E SHEA BLVD</FirstLinePracticeLocationAddress>
+    <SecondLinePracticeLocationAddress>SUITE 101</SecondLinePracticeLocationAddress>
+    <PracticeLocationAddressCityName>SCOTTSDALE</PracticeLocationAddressCityName>
+    <PracticeLocationAddressStateName>AZ</PracticeLocationAddressStateName>
+    <PracticeLocationAddressPostalCode>85260-6673</PracticeLocationAddressPostalCode>
+    <PracticeLocationAddressCountryCode>US</PracticeLocationAddressCountryCode>
+    <PracticeLocationAddressTelephoneNumber>480-282-6570</PracticeLocationAddressTelephoneNumber>
+    <EnumerationDate>12/13/2010</EnumerationDate>
+    <LastUpdateDate>11/12/2018</LastUpdateDate>
+    <AuthorizedOfficialLastName>EVANS</AuthorizedOfficialLastName>
+    <AuthorizedOfficialFirstName>RON</AuthorizedOfficialFirstName>
+    <AuthorizedOfficialTitle>CEO</AuthorizedOfficialTitle>
+    <AuthorizedOfficialTelephoneNumber>480-677-1193</AuthorizedOfficialTelephoneNumber>
+    <TaxonomyCode1>261QS1200X</TaxonomyCode1>
+    <Taxonomy1>Sleep Disorder Diagnostic</Taxonomy1>
+    <PrimaryTaxonomySwitch1>Y</PrimaryTaxonomySwitch1>
+    <OtherIdentifier1>606061</OtherIdentifier1>
+    <OtherIdentifierType1>MEDICAID</OtherIdentifierType1>
+    <OtherIdentifierState1>AZ</OtherIdentifierState1>
+  </NPI>
+  <NPI>
+    <NPI>1982891313</NPI>
+    <EntityType>Organization</EntityType>
+    <EIN>N/A</EIN>
+    <IsOrgSubpart>Y</IsOrgSubpart>
+    <ParentOrgLBN>HEARTLAND HEALTH THERAPY, INC</ParentOrgLBN>
+    <ParentOrgTIN>N/A</ParentOrgTIN>
+    <OrgName>HEARTLAND HEALTH THERAPY, LLC</OrgName>
+    <FirstLineMailingAddress>11011 Q STREET</FirstLineMailingAddress>
+    <SecondLineMailingAddress>SUITE 102C</SecondLineMailingAddress>
+    <MailingAddressCityName>OMAHA</MailingAddressCityName>
+    <MailingAddressStateName>NE</MailingAddressStateName>
+    <MailingAddressPostalCode>68137</MailingAddressPostalCode>
+    <MailingAddressCountryCode>US</MailingAddressCountryCode>
+    <MailingAddressTelephoneNumber>402-991-9933</MailingAddressTelephoneNumber>
+    <MailingAddressFaxNumber>402-926-4910</MailingAddressFaxNumber>
+    <FirstLinePracticeLocationAddress>11011 Q STREET</FirstLinePracticeLocationAddress>
+    <SecondLinePracticeLocationAddress>SUITE 102C</SecondLinePracticeLocationAddress>
+    <PracticeLocationAddressCityName>OMAHA</PracticeLocationAddressCityName>
+    <PracticeLocationAddressStateName>NE</PracticeLocationAddressStateName>
+    <PracticeLocationAddressPostalCode>68137</PracticeLocationAddressPostalCode>
+    <PracticeLocationAddressCountryCode>US</PracticeLocationAddressCountryCode>
+    <PracticeLocationAddressTelephoneNumber>402-991-9933</PracticeLocationAddressTelephoneNumber>
+    <PracticeLocationAddressFaxNumber>402-926-4910</PracticeLocationAddressFaxNumber>
+    <EnumerationDate>10/01/2007</EnumerationDate>
+    <LastUpdateDate>11/12/2018</LastUpdateDate>
+    <AuthorizedOfficialLastName>MASON</AuthorizedOfficialLastName>
+    <AuthorizedOfficialFirstName>JUNITH</AuthorizedOfficialFirstName>
+    <AuthorizedOfficialMiddleName>A</AuthorizedOfficialMiddleName>
+    <AuthorizedOfficialTitle>REIMBURSEMENT MANAGER</AuthorizedOfficialTitle>
+    <AuthorizedOfficialTelephoneNumber>402-991-9933</AuthorizedOfficialTelephoneNumber>
+    <TaxonomyCode1>261QS1200X</TaxonomyCode1>
+    <Taxonomy1>Sleep Disorder Diagnostic</Taxonomy1>
+    <PrimaryTaxonomySwitch1>N</PrimaryTaxonomySwitch1>
+    <TaxonomyCode2>332B00000X</TaxonomyCode2>
+    <Taxonomy2>Durable Medical Equipment &amp; Medical Supplies</Taxonomy2>
+    <PrimaryTaxonomySwitch2>Y</PrimaryTaxonomySwitch2>
+    <OtherIdentifier1>10025768000</OtherIdentifier1>
+    <OtherIdentifierType1>MEDICAID</OtherIdentifierType1>
+    <OtherIdentifierState1>NE</OtherIdentifierState1>
+  </NPI>
+  <NPI>
+    <NPI>1689977696</NPI>
+    <EntityType>Organization</EntityType>
+    <EIN>N/A</EIN>
+    <IsOrgSubpart>N</IsOrgSubpart>
+    <OrgName>HEARTLAND HEALTH THERAPY, LLC</OrgName>
+    <OtherOrgName>SLEEP TESTING AND RESPIRATORY SERVICES</OtherOrgName>
+    <OtherOrgNameTypeCode>3</OtherOrgNameTypeCode>
+    <FirstLineMailingAddress>2330 W BROADWAY RD</FirstLineMailingAddress>
+    <SecondLineMailingAddress>SUITE 109</SecondLineMailingAddress>
+    <MailingAddressCityName>MESA</MailingAddressCityName>
+    <MailingAddressStateName>AZ</MailingAddressStateName>
+    <MailingAddressPostalCode>85202-1888</MailingAddressPostalCode>
+    <MailingAddressCountryCode>US</MailingAddressCountryCode>
+    <MailingAddressTelephoneNumber>480-907-7900</MailingAddressTelephoneNumber>
+    <FirstLinePracticeLocationAddress>7384 N LA CHOLLA BLVD</FirstLinePracticeLocationAddress>
+    <PracticeLocationAddressCityName>TUCSON</PracticeLocationAddressCityName>
+    <PracticeLocationAddressStateName>AZ</PracticeLocationAddressStateName>
+    <PracticeLocationAddressPostalCode>85741-2305</PracticeLocationAddressPostalCode>
+    <PracticeLocationAddressCountryCode>US</PracticeLocationAddressCountryCode>
+    <PracticeLocationAddressTelephoneNumber>520-724-1173</PracticeLocationAddressTelephoneNumber>
+    <EnumerationDate>12/13/2010</EnumerationDate>
+    <LastUpdateDate>11/12/2018</LastUpdateDate>
+    <AuthorizedOfficialLastName>EVANS</AuthorizedOfficialLastName>
+    <AuthorizedOfficialFirstName>RON</AuthorizedOfficialFirstName>
+    <AuthorizedOfficialTitle>CEO</AuthorizedOfficialTitle>
+    <AuthorizedOfficialTelephoneNumber>480-677-1193</AuthorizedOfficialTelephoneNumber>
+    <TaxonomyCode1>261QS1200X</TaxonomyCode1>
+    <Taxonomy1>Sleep Disorder Diagnostic</Taxonomy1>
+    <PrimaryTaxonomySwitch1>Y</PrimaryTaxonomySwitch1>
+    <OtherIdentifier1>606031</OtherIdentifier1>
+    <OtherIdentifierType1>MEDICAID</OtherIdentifierType1>
+    <OtherIdentifierState1>AZ</OtherIdentifierState1>
+  </NPI>
+  <NPI>
+    <NPI>1043513054</NPI>
+    <EntityType>Organization</EntityType>
+    <EIN>N/A</EIN>
+    <IsOrgSubpart>N</IsOrgSubpart>
+    <OrgName>HEARTLAND HEALTH THERAPY, LLC</OrgName>
+    <OtherOrgName>SLEEP TESTING AND RESPIRATORY SERVICES</OtherOrgName>
+    <OtherOrgNameTypeCode>3</OtherOrgNameTypeCode>
+    <FirstLineMailingAddress>2330 W BROADWAY RD</FirstLineMailingAddress>
+    <SecondLineMailingAddress>SUITE 109</SecondLineMailingAddress>
+    <MailingAddressCityName>MESA</MailingAddressCityName>
+    <MailingAddressStateName>AZ</MailingAddressStateName>
+    <MailingAddressPostalCode>85202-1888</MailingAddressPostalCode>
+    <MailingAddressCountryCode>US</MailingAddressCountryCode>
+    <MailingAddressTelephoneNumber>480-907-7900</MailingAddressTelephoneNumber>
+    <FirstLinePracticeLocationAddress>1951 N WILMOT RD</FirstLinePracticeLocationAddress>
+    <SecondLinePracticeLocationAddress>BLDG 1 UNIT 4</SecondLinePracticeLocationAddress>
+    <PracticeLocationAddressCityName>TUCSON</PracticeLocationAddressCityName>
+    <PracticeLocationAddressStateName>AZ</PracticeLocationAddressStateName>
+    <PracticeLocationAddressPostalCode>85712-8000</PracticeLocationAddressPostalCode>
+    <PracticeLocationAddressCountryCode>US</PracticeLocationAddressCountryCode>
+    <PracticeLocationAddressTelephoneNumber>520-722-3210</PracticeLocationAddressTelephoneNumber>
+    <EnumerationDate>12/13/2010</EnumerationDate>
+    <LastUpdateDate>11/12/2018</LastUpdateDate>
+    <AuthorizedOfficialLastName>EVANS</AuthorizedOfficialLastName>
+    <AuthorizedOfficialFirstName>RON</AuthorizedOfficialFirstName>
+    <AuthorizedOfficialTitle>PRESIDENT</AuthorizedOfficialTitle>
+    <AuthorizedOfficialTelephoneNumber>480-677-1193</AuthorizedOfficialTelephoneNumber>
+    <TaxonomyCode1>261QS1200X</TaxonomyCode1>
+    <Taxonomy1>Sleep Disorder Diagnostic</Taxonomy1>
+    <PrimaryTaxonomySwitch1>Y</PrimaryTaxonomySwitch1>
+    <OtherIdentifier1>605943</OtherIdentifier1>
+    <OtherIdentifierType1>MEDICAID</OtherIdentifierType1>
+    <OtherIdentifierState1>AZ</OtherIdentifierState1>
+  </NPI>
+  <NPI>
+    <NPI>1326341330</NPI>
+    <EntityType>Organization</EntityType>
+    <EIN>N/A</EIN>
+    <IsOrgSubpart>N</IsOrgSubpart>
+    <OrgName>HEARTLAND HEALTH THERAPY, LLC</OrgName>
+    <OtherOrgName>SLEEP TESTING AND RESPIRATPRY SERVICES</OtherOrgName>
+    <OtherOrgNameTypeCode>3</OtherOrgNameTypeCode>
+    <FirstLineMailingAddress>2330 W BROADWAY RD</FirstLineMailingAddress>
+    <SecondLineMailingAddress>SUITE 109</SecondLineMailingAddress>
+    <MailingAddressCityName>MESA</MailingAddressCityName>
+    <MailingAddressStateName>AZ</MailingAddressStateName>
+    <MailingAddressPostalCode>85202-1888</MailingAddressPostalCode>
+    <MailingAddressCountryCode>US</MailingAddressCountryCode>
+    <FirstLinePracticeLocationAddress>926 E MCDOWELL RD</FirstLinePracticeLocationAddress>
+    <SecondLinePracticeLocationAddress>SUITE 112</SecondLinePracticeLocationAddress>
+    <PracticeLocationAddressCityName>PHOENIX</PracticeLocationAddressCityName>
+    <PracticeLocationAddressStateName>AZ</PracticeLocationAddressStateName>
+    <PracticeLocationAddressPostalCode>85006-2503</PracticeLocationAddressPostalCode>
+    <PracticeLocationAddressCountryCode>US</PracticeLocationAddressCountryCode>
+    <PracticeLocationAddressTelephoneNumber>480-282-6550</PracticeLocationAddressTelephoneNumber>
+    <EnumerationDate>12/13/2010</EnumerationDate>
+    <LastUpdateDate>11/12/2018</LastUpdateDate>
+    <AuthorizedOfficialLastName>EVANS</AuthorizedOfficialLastName>
+    <AuthorizedOfficialFirstName>RON</AuthorizedOfficialFirstName>
+    <AuthorizedOfficialTitle>CEO</AuthorizedOfficialTitle>
+    <AuthorizedOfficialTelephoneNumber>480-677-1193</AuthorizedOfficialTelephoneNumber>
+    <TaxonomyCode1>261QS1200X</TaxonomyCode1>
+    <Taxonomy1>Sleep Disorder Diagnostic</Taxonomy1>
+    <PrimaryTaxonomySwitch1>Y</PrimaryTaxonomySwitch1>
+    <OtherIdentifier1>605972</OtherIdentifier1>
+    <OtherIdentifierType1>MEDICAID</OtherIdentifierType1>
+    <OtherIdentifierState1>AZ</OtherIdentifierState1>
+  </NPI>
+  <NPI>
+    <NPI>1619978061</NPI>
+    <EntityType>Organization</EntityType>
+    <EIN>N/A</EIN>
+    <IsOrgSubpart>N</IsOrgSubpart>
+    <OrgName>HEARTLAND HEALTH LABORATORIES, INC</OrgName>
+    <FirstLineMailingAddress>10435 LACKMAN RD</FirstLineMailingAddress>
+    <MailingAddressCityName>LENEXA</MailingAddressCityName>
+    <MailingAddressStateName>KS</MailingAddressStateName>
+    <MailingAddressPostalCode>66219-1221</MailingAddressPostalCode>
+    <MailingAddressCountryCode>US</MailingAddressCountryCode>
+    <MailingAddressTelephoneNumber>913-643-4278</MailingAddressTelephoneNumber>
+    <MailingAddressFaxNumber>913-642-4282</MailingAddressFaxNumber>
+    <FirstLinePracticeLocationAddress>10435 LACKMAN RD</FirstLinePracticeLocationAddress>
+    <PracticeLocationAddressCityName>LENEXA</PracticeLocationAddressCityName>
+    <PracticeLocationAddressStateName>KS</PracticeLocationAddressStateName>
+    <PracticeLocationAddressPostalCode>66219-1221</PracticeLocationAddressPostalCode>
+    <PracticeLocationAddressCountryCode>US</PracticeLocationAddressCountryCode>
+    <PracticeLocationAddressTelephoneNumber>913-643-4278</PracticeLocationAddressTelephoneNumber>
+    <PracticeLocationAddressFaxNumber>913-642-4282</PracticeLocationAddressFaxNumber>
+    <EnumerationDate>08/09/2005</EnumerationDate>
+    <LastUpdateDate>04/09/2010</LastUpdateDate>
+    <AuthorizedOfficialLastName>MCPHERSON</AuthorizedOfficialLastName>
+    <AuthorizedOfficialFirstName>PHILIP</AuthorizedOfficialFirstName>
+    <AuthorizedOfficialTitle>PRESIDENT</AuthorizedOfficialTitle>
+    <AuthorizedOfficialTelephoneNumber>913-643-4278</AuthorizedOfficialTelephoneNumber>
+    <TaxonomyCode1>291U00000X</TaxonomyCode1>
+    <Taxonomy1>Clinical Medical Laboratory</Taxonomy1>
+    <LicenseNumber1>17D1027382</LicenseNumber1>
+    <LicenseNumberStateCode1>KS</LicenseNumberStateCode1>
+    <PrimaryTaxonomySwitch1>Y</PrimaryTaxonomySwitch1>
+  </NPI>
+  <NPI>
+    <NPI>1689661795</NPI>
+    <EntityType>Organization</EntityType>
+    <EIN>N/A</EIN>
+    <IsOrgSubpart>N</IsOrgSubpart>
+    <OrgName>HEARTLAND HOME HEALTH CARE</OrgName>
+    <OtherOrgName>METHODIST PHARMACY @ ALLEN ROAD</OtherOrgName>
+    <OtherOrgNameTypeCode>5</OtherOrgNameTypeCode>
+    <FirstLineMailingAddress>2338 W. SUD PARKWAY</FirstLineMailingAddress>
+    <MailingAddressCityName>PEORIA</MailingAddressCityName>
+    <MailingAddressStateName>IL</MailingAddressStateName>
+    <MailingAddressPostalCode>61525</MailingAddressPostalCode>
+    <MailingAddressCountryCode>US</MailingAddressCountryCode>
+    <MailingAddressTelephoneNumber>309-683-8885</MailingAddressTelephoneNumber>
+    <MailingAddressFaxNumber>309-683-8850</MailingAddressFaxNumber>
+    <FirstLinePracticeLocationAddress>2338 W SUD PKWY</FirstLinePracticeLocationAddress>
+    <PracticeLocationAddressCityName>PEORIA</PracticeLocationAddressCityName>
+    <PracticeLocationAddressStateName>IL</PracticeLocationAddressStateName>
+    <PracticeLocationAddressPostalCode>61615-7482</PracticeLocationAddressPostalCode>
+    <PracticeLocationAddressCountryCode>US</PracticeLocationAddressCountryCode>
+    <PracticeLocationAddressTelephoneNumber>309-683-8885</PracticeLocationAddressTelephoneNumber>
+    <PracticeLocationAddressFaxNumber>309-683-8850</PracticeLocationAddressFaxNumber>
+    <EnumerationDate>10/04/2005</EnumerationDate>
+    <LastUpdateDate>08/17/2018</LastUpdateDate>
+    <AuthorizedOfficialLastName>BARNEWOLT</AuthorizedOfficialLastName>
+    <AuthorizedOfficialFirstName>BARBARA</AuthorizedOfficialFirstName>
+    <AuthorizedOfficialMiddleName>ANN</AuthorizedOfficialMiddleName>
+    <AuthorizedOfficialTitle>PHARMACIST IN CHARGE</AuthorizedOfficialTitle>
+    <AuthorizedOfficialNamePrefix>MRS.</AuthorizedOfficialNamePrefix>
+    <AuthorizedOfficialCredential>B.S. PHARMACY</AuthorizedOfficialCredential>
+    <AuthorizedOfficialTelephoneNumber>309-683-8885</AuthorizedOfficialTelephoneNumber>
+    <TaxonomyCode1>333600000X</TaxonomyCode1>
+    <Taxonomy1>Pharmacy</Taxonomy1>
+    <LicenseNumber1>051-028094</LicenseNumber1>
+    <LicenseNumberStateCode1>IL</LicenseNumberStateCode1>
+    <PrimaryTaxonomySwitch1>Y</PrimaryTaxonomySwitch1>
+    <OtherIdentifier1>=========003</OtherIdentifier1>
+    <OtherIdentifierType1>MEDICAID</OtherIdentifierType1>
+    <OtherIdentifierState1>IL</OtherIdentifierState1>
+  </NPI>
+  <NPI>
+    <NPI>1629065560</NPI>
+    <EntityType>Organization</EntityType>
+    <EIN>N/A</EIN>
+    <IsOrgSubpart>N</IsOrgSubpart>
+    <OrgName>HEARTLAND MEDICAL AND HOME HEALTH EQUIPMENT,INC.</OrgName>
+    <FirstLineMailingAddress>121 N MAIN ST</FirstLineMailingAddress>
+    <MailingAddressCityName>ELK CITY</MailingAddressCityName>
+    <MailingAddressStateName>OK</MailingAddressStateName>
+    <MailingAddressPostalCode>73644-4751</MailingAddressPostalCode>
+    <MailingAddressCountryCode>US</MailingAddressCountryCode>
+    <MailingAddressTelephoneNumber>580-243-5551</MailingAddressTelephoneNumber>
+    <MailingAddressFaxNumber>580-243-5552</MailingAddressFaxNumber>
+    <FirstLinePracticeLocationAddress>121 N MAIN ST</FirstLinePracticeLocationAddress>
+    <PracticeLocationAddressCityName>ELK CITY</PracticeLocationAddressCityName>
+    <PracticeLocationAddressStateName>OK</PracticeLocationAddressStateName>
+    <PracticeLocationAddressPostalCode>73644-4751</PracticeLocationAddressPostalCode>
+    <PracticeLocationAddressCountryCode>US</PracticeLocationAddressCountryCode>
+    <PracticeLocationAddressTelephoneNumber>580-243-5551</PracticeLocationAddressTelephoneNumber>
+    <PracticeLocationAddressFaxNumber>580-243-5552</PracticeLocationAddressFaxNumber>
+    <EnumerationDate>10/05/2005</EnumerationDate>
+    <LastUpdateDate>03/08/2013</LastUpdateDate>
+    <AuthorizedOfficialLastName>EDNEY</AuthorizedOfficialLastName>
+    <AuthorizedOfficialFirstName>STEFANIE</AuthorizedOfficialFirstName>
+    <AuthorizedOfficialTitle>OWNER</AuthorizedOfficialTitle>
+    <AuthorizedOfficialNamePrefix>MRS.</AuthorizedOfficialNamePrefix>
+    <AuthorizedOfficialTelephoneNumber>580-243-5551</AuthorizedOfficialTelephoneNumber>
+    <TaxonomyCode1>332BP3500X</TaxonomyCode1>
+    <Taxonomy1>Parenteral &amp; Enteral Nutrition</Taxonomy1>
+    <PrimaryTaxonomySwitch1>N</PrimaryTaxonomySwitch1>
+    <TaxonomyCode2>332B00000X</TaxonomyCode2>
+    <Taxonomy2>Durable Medical Equipment &amp; Medical Supplies</Taxonomy2>
+    <PrimaryTaxonomySwitch2>Y</PrimaryTaxonomySwitch2>
+    <OtherIdentifier1>100811760A</OtherIdentifier1>
+    <OtherIdentifierType1>MEDICAID</OtherIdentifierType1>
+    <OtherIdentifierState1>OK</OtherIdentifierState1>
+    <OtherIdentifier2>100634310A</OtherIdentifier2>
+    <OtherIdentifierType2>MEDICAID</OtherIdentifierType2>
+    <OtherIdentifierState2>OK</OtherIdentifierState2>
+    <OtherIdentifier3>100811760B</OtherIdentifier3>
+    <OtherIdentifierType3>MEDICAID</OtherIdentifierType3>
+    <OtherIdentifierState3>OK</OtherIdentifierState3>
+  </NPI>
+  <NPI>
+    <NPI>1073594057</NPI>
+    <EntityType>Organization</EntityType>
+    <EIN>N/A</EIN>
+    <OrgName>HEARTLAND HOME HEALTH CARE</OrgName>
+    <OtherOrgName>HEARTLAND PHARMACY</OtherOrgName>
+    <OtherOrgNameTypeCode>3</OtherOrgNameTypeCode>
+    <FirstLineMailingAddress>221 NE GLEN OAK AVE</FirstLineMailingAddress>
+    <MailingAddressCityName>PEORIA</MailingAddressCityName>
+    <MailingAddressStateName>IL</MailingAddressStateName>
+    <MailingAddressPostalCode>61636-0001</MailingAddressPostalCode>
+    <MailingAddressCountryCode>US</MailingAddressCountryCode>
+    <MailingAddressTelephoneNumber>309-671-5151</MailingAddressTelephoneNumber>
+    <MailingAddressFaxNumber>309-671-2520</MailingAddressFaxNumber>
+    <FirstLinePracticeLocationAddress>221 NE GLEN OAK AVE</FirstLinePracticeLocationAddress>
+    <PracticeLocationAddressCityName>PEORIA</PracticeLocationAddressCityName>
+    <PracticeLocationAddressStateName>IL</PracticeLocationAddressStateName>
+    <PracticeLocationAddressPostalCode>61636-0001</PracticeLocationAddressPostalCode>
+    <PracticeLocationAddressCountryCode>US</PracticeLocationAddressCountryCode>
+    <PracticeLocationAddressTelephoneNumber>309-671-5151</PracticeLocationAddressTelephoneNumber>
+    <PracticeLocationAddressFaxNumber>309-671-2520</PracticeLocationAddressFaxNumber>
+    <EnumerationDate>11/08/2005</EnumerationDate>
+    <LastUpdateDate>04/20/2008</LastUpdateDate>
+    <AuthorizedOfficialLastName>KREITER</AuthorizedOfficialLastName>
+    <AuthorizedOfficialFirstName>LORI</AuthorizedOfficialFirstName>
+    <AuthorizedOfficialMiddleName>R</AuthorizedOfficialMiddleName>
+    <AuthorizedOfficialTitle>PHARMACIST IN CHARGE</AuthorizedOfficialTitle>
+    <AuthorizedOfficialCredential>RPH</AuthorizedOfficialCredential>
+    <AuthorizedOfficialTelephoneNumber>309-671-5151</AuthorizedOfficialTelephoneNumber>
+    <TaxonomyCode1>333600000X</TaxonomyCode1>
+    <Taxonomy1>Pharmacy</Taxonomy1>
+    <LicenseNumber1>54008655</LicenseNumber1>
+    <LicenseNumberStateCode1>IL</LicenseNumberStateCode1>
+    <PrimaryTaxonomySwitch1>Y</PrimaryTaxonomySwitch1>
+    <OtherIdentifier1>=========002</OtherIdentifier1>
+    <OtherIdentifierType1>MEDICAID</OtherIdentifierType1>
+    <OtherIdentifierState1>IL</OtherIdentifierState1>
+  </NPI>
+  <NPI>
+    <NPI>1457320665</NPI>
+    <EntityType>Organization</EntityType>
+    <EIN>N/A</EIN>
+    <IsOrgSubpart>N</IsOrgSubpart>
+    <OrgName>HEARTLAND WOMEN'S HEALTH CARE, P.C.</OrgName>
+    <FirstLineMailingAddress>2790 CLAY EDWARDS DR</FirstLineMailingAddress>
+    <SecondLineMailingAddress>SUITE 530</SecondLineMailingAddress>
+    <MailingAddressCityName>NORTH KANSAS CITY</MailingAddressCityName>
+    <MailingAddressStateName>MO</MailingAddressStateName>
+    <MailingAddressPostalCode>64116-3276</MailingAddressPostalCode>
+    <MailingAddressCountryCode>US</MailingAddressCountryCode>
+    <MailingAddressTelephoneNumber>816-452-3300</MailingAddressTelephoneNumber>
+    <MailingAddressFaxNumber>816-453-0677</MailingAddressFaxNumber>
+    <FirstLinePracticeLocationAddress>2790 CLAY EDWARDS DR</FirstLinePracticeLocationAddress>
+    <SecondLinePracticeLocationAddress>SUITE 530</SecondLinePracticeLocationAddress>
+    <PracticeLocationAddressCityName>NORTH KANSAS CITY</PracticeLocationAddressCityName>
+    <PracticeLocationAddressStateName>MO</PracticeLocationAddressStateName>
+    <PracticeLocationAddressPostalCode>64116-3276</PracticeLocationAddressPostalCode>
+    <PracticeLocationAddressCountryCode>US</PracticeLocationAddressCountryCode>
+    <PracticeLocationAddressTelephoneNumber>816-452-3300</PracticeLocationAddressTelephoneNumber>
+    <PracticeLocationAddressFaxNumber>816-453-0677</PracticeLocationAddressFaxNumber>
+    <EnumerationDate>03/17/2006</EnumerationDate>
+    <LastUpdateDate>07/25/2007</LastUpdateDate>
+    <AuthorizedOfficialLastName>MCCOSKEY</AuthorizedOfficialLastName>
+    <AuthorizedOfficialFirstName>LISA</AuthorizedOfficialFirstName>
+    <AuthorizedOfficialMiddleName>MARIE</AuthorizedOfficialMiddleName>
+    <AuthorizedOfficialTitle>OFFICE MANAGER</AuthorizedOfficialTitle>
+    <AuthorizedOfficialNamePrefix>MRS.</AuthorizedOfficialNamePrefix>
+    <AuthorizedOfficialTelephoneNumber>816-452-3300</AuthorizedOfficialTelephoneNumber>
+    <TaxonomyCode1>174400000X</TaxonomyCode1>
+    <Taxonomy1>Specialist</Taxonomy1>
+    <PrimaryTaxonomySwitch1>Y</PrimaryTaxonomySwitch1>
+    <HealthcareProviderTaxonomyGroup1>193400000X SINGLE SPECIALTY  GROUP</HealthcareProviderTaxonomyGroup1>
+    <HealthcareProviderTaxonomyGroupDescription1>Single Specialty Group - A business group of one or more individual practitioners, all of who practice with the same area of specialization.</HealthcareProviderTaxonomyGroupDescription1>
+  </NPI>
+  <NPI>
+    <NPI>1528037736</NPI>
+    <EntityType>Individual</EntityType>
+    <IsSoleProprietor>X</IsSoleProprietor>
+    <LastName>MORGAN</LastName>
+    <FirstName>JAMES</FirstName>
+    <MiddleName>H</MiddleName>
+    <Credential>DO</Credential>
+    <FirstLineMailingAddress>2790 CLAY EDWARDS DRIVE</FirstLineMailingAddress>
+    <SecondLineMailingAddress>SUITE 530 HEARTLAND WOMENS HEALTH CARE PC</SecondLineMailingAddress>
+    <MailingAddressCityName>NKC</MailingAddressCityName>
+    <MailingAddressStateName>MO</MailingAddressStateName>
+    <MailingAddressPostalCode>64116-3276</MailingAddressPostalCode>
+    <MailingAddressCountryCode>US</MailingAddressCountryCode>
+    <MailingAddressTelephoneNumber>816-452-3300</MailingAddressTelephoneNumber>
+    <MailingAddressFaxNumber>816-453-0677</MailingAddressFaxNumber>
+    <FirstLinePracticeLocationAddress>2790 CLAY EDWARDS DRIVE</FirstLinePracticeLocationAddress>
+    <SecondLinePracticeLocationAddress>SUITE 530 HEARTLAND WOMENS HEALTH CARE PC</SecondLinePracticeLocationAddress>
+    <PracticeLocationAddressCityName>NKC</PracticeLocationAddressCityName>
+    <PracticeLocationAddressStateName>MO</PracticeLocationAddressStateName>
+    <PracticeLocationAddressPostalCode>64116-3276</PracticeLocationAddressPostalCode>
+    <PracticeLocationAddressCountryCode>US</PracticeLocationAddressCountryCode>
+    <PracticeLocationAddressTelephoneNumber>816-452-3300</PracticeLocationAddressTelephoneNumber>
+    <PracticeLocationAddressFaxNumber>816-453-0677</PracticeLocationAddressFaxNumber>
+    <EnumerationDate>03/17/2006</EnumerationDate>
+    <LastUpdateDate>07/08/2007</LastUpdateDate>
+    <GenderCode>M</GenderCode>
+    <Gender>Male</Gender>
+    <TaxonomyCode1>207V00000X</TaxonomyCode1>
+    <Taxonomy1>Obstetrics &amp; Gynecology</Taxonomy1>
+    <LicenseNumber1>R2E31</LicenseNumber1>
+    <LicenseNumberStateCode1>MO</LicenseNumberStateCode1>
+    <PrimaryTaxonomySwitch1>Y</PrimaryTaxonomySwitch1>
+  </NPI>
+  <NPI>
+    <NPI>1669424842</NPI>
+    <EntityType>Organization</EntityType>
+    <EIN>N/A</EIN>
+    <OrgName>HEARTLAND WOMEN'S HEALTH, PA</OrgName>
+    <FirstLineMailingAddress>9300 E 29TH ST N</FirstLineMailingAddress>
+    <SecondLineMailingAddress>SUITE 320</SecondLineMailingAddress>
+    <MailingAddressCityName>WICHITA</MailingAddressCityName>
+    <MailingAddressStateName>KS</MailingAddressStateName>
+    <MailingAddressPostalCode>67226-2182</MailingAddressPostalCode>
+    <MailingAddressCountryCode>US</MailingAddressCountryCode>
+    <MailingAddressTelephoneNumber>316-858-7100</MailingAddressTelephoneNumber>
+    <MailingAddressFaxNumber>316-858-7103</MailingAddressFaxNumber>
+    <FirstLinePracticeLocationAddress>9300 E 29TH ST N</FirstLinePracticeLocationAddress>
+    <SecondLinePracticeLocationAddress>SUITE 320</SecondLinePracticeLocationAddress>
+    <PracticeLocationAddressCityName>WICHITA</PracticeLocationAddressCityName>
+    <PracticeLocationAddressStateName>KS</PracticeLocationAddressStateName>
+    <PracticeLocationAddressPostalCode>67226-2182</PracticeLocationAddressPostalCode>
+    <PracticeLocationAddressCountryCode>US</PracticeLocationAddressCountryCode>
+    <PracticeLocationAddressTelephoneNumber>316-858-7100</PracticeLocationAddressTelephoneNumber>
+    <PracticeLocationAddressFaxNumber>316-858-7103</PracticeLocationAddressFaxNumber>
+    <EnumerationDate>05/16/2006</EnumerationDate>
+    <LastUpdateDate>07/08/2007</LastUpdateDate>
+    <AuthorizedOfficialLastName>LOWDEN</AuthorizedOfficialLastName>
+    <AuthorizedOfficialFirstName>DAWNE</AuthorizedOfficialFirstName>
+    <AuthorizedOfficialMiddleName>A</AuthorizedOfficialMiddleName>
+    <AuthorizedOfficialTitle>PRESIDENT/PHYSICIAN</AuthorizedOfficialTitle>
+    <AuthorizedOfficialCredential>MD</AuthorizedOfficialCredential>
+    <AuthorizedOfficialTelephoneNumber>316-858-7100</AuthorizedOfficialTelephoneNumber>
+    <TaxonomyCode1>207V00000X</TaxonomyCode1>
+    <Taxonomy1>Obstetrics &amp; Gynecology</Taxonomy1>
+    <PrimaryTaxonomySwitch1>Y</PrimaryTaxonomySwitch1>
+    <HealthcareProviderTaxonomyGroup1>193400000X SINGLE SPECIALTY  GROUP</HealthcareProviderTaxonomyGroup1>
+    <HealthcareProviderTaxonomyGroupDescription1>Single Specialty Group - A business group of one or more individual practitioners, all of who practice with the same area of specialization.</HealthcareProviderTaxonomyGroupDescription1>
+  </NPI>
+  <NPI>
+    <NPI>1417909417</NPI>
+    <EntityType>Organization</EntityType>
+    <EIN>N/A</EIN>
+    <IsOrgSubpart>N</IsOrgSubpart>
+    <OrgName>HEARTLAND HOME HEALTH CARE SERVICES LLC</OrgName>
+    <OtherOrgName>HEARTLAND HOME HEALTH CARE</OtherOrgName>
+    <OtherOrgNameTypeCode>3</OtherOrgNameTypeCode>
+    <FirstLineMailingAddress>333 N SUMMIT ST</FirstLineMailingAddress>
+    <SecondLineMailingAddress>ATTN: DEAN SHIPMAN</SecondLineMailingAddress>
+    <MailingAddressCityName>TOLEDO</MailingAddressCityName>
+    <MailingAddressStateName>OH</MailingAddressStateName>
+    <MailingAddressPostalCode>43604-1531</MailingAddressPostalCode>
+    <MailingAddressCountryCode>US</MailingAddressCountryCode>
+    <MailingAddressTelephoneNumber>419-254-7841</MailingAddressTelephoneNumber>
+    <MailingAddressFaxNumber>419-252-6448</MailingAddressFaxNumber>
+    <FirstLinePracticeLocationAddress>4855 W HILLSBORO BLVD</FirstLinePracticeLocationAddress>
+    <SecondLinePracticeLocationAddress>SUITE B-4</SecondLinePracticeLocationAddress>
+    <PracticeLocationAddressCityName>COCONUT CREEK</PracticeLocationAddressCityName>
+    <PracticeLocationAddressStateName>FL</PracticeLocationAddressStateName>
+    <PracticeLocationAddressPostalCode>33073-4356</PracticeLocationAddressPostalCode>
+    <PracticeLocationAddressCountryCode>US</PracticeLocationAddressCountryCode>
+    <PracticeLocationAddressTelephoneNumber>954-969-0688</PracticeLocationAddressTelephoneNumber>
+    <PracticeLocationAddressFaxNumber>954-969-0779</PracticeLocationAddressFaxNumber>
+    <EnumerationDate>05/17/2006</EnumerationDate>
+    <LastUpdateDate>03/15/2013</LastUpdateDate>
+    <AuthorizedOfficialLastName>LAZARUS</AuthorizedOfficialLastName>
+    <AuthorizedOfficialFirstName>BARRY</AuthorizedOfficialFirstName>
+    <AuthorizedOfficialMiddleName>A</AuthorizedOfficialMiddleName>
+    <AuthorizedOfficialTitle>VICE PRESIDENT - REIMBURSEMENTS</AuthorizedOfficialTitle>
+    <AuthorizedOfficialNamePrefix>MR.</AuthorizedOfficialNamePrefix>
+    <AuthorizedOfficialTelephoneNumber>419-252-5541</AuthorizedOfficialTelephoneNumber>
+    <TaxonomyCode1>251E00000X</TaxonomyCode1>
+    <Taxonomy1>Home Health</Taxonomy1>
+    <LicenseNumber1>HHA209400961</LicenseNumber1>
+    <LicenseNumberStateCode1>FL</LicenseNumberStateCode1>
+    <PrimaryTaxonomySwitch1>Y</PrimaryTaxonomySwitch1>
+  </NPI>
+  <NPI>
+    <NPI>1265485973</NPI>
+    <EntityType>Organization</EntityType>
+    <EIN>N/A</EIN>
+    <IsOrgSubpart>N</IsOrgSubpart>
+    <OrgName>HEARTLAND HOME HEALTH CARE INC.</OrgName>
+    <FirstLineMailingAddress>221 NE GLEN OAK AVE</FirstLineMailingAddress>
+    <MailingAddressCityName>PEORIA</MailingAddressCityName>
+    <MailingAddressStateName>IL</MailingAddressStateName>
+    <MailingAddressPostalCode>61636-0001</MailingAddressPostalCode>
+    <MailingAddressCountryCode>US</MailingAddressCountryCode>
+    <MailingAddressTelephoneNumber>309-671-7792</MailingAddressTelephoneNumber>
+    <FirstLinePracticeLocationAddress>112 NE CRESCENT AVE</FirstLinePracticeLocationAddress>
+    <PracticeLocationAddressCityName>PEORIA</PracticeLocationAddressCityName>
+    <PracticeLocationAddressStateName>IL</PracticeLocationAddressStateName>
+    <PracticeLocationAddressPostalCode>61606-1901</PracticeLocationAddressPostalCode>
+    <PracticeLocationAddressCountryCode>US</PracticeLocationAddressCountryCode>
+    <PracticeLocationAddressTelephoneNumber>309-671-7792</PracticeLocationAddressTelephoneNumber>
+    <EnumerationDate>05/17/2006</EnumerationDate>
+    <LastUpdateDate>12/22/2009</LastUpdateDate>
+    <AuthorizedOfficialLastName>MACKAY</AuthorizedOfficialLastName>
+    <AuthorizedOfficialFirstName>CALVIN</AuthorizedOfficialFirstName>
+    <AuthorizedOfficialTitle>CHIEF FINANCIAL OFFICER SENIOR VP</AuthorizedOfficialTitle>
+    <AuthorizedOfficialTelephoneNumber>309-672-5931</AuthorizedOfficialTelephoneNumber>
+    <TaxonomyCode1>335E00000X</TaxonomyCode1>
+    <Taxonomy1>Prosthetic/Orthotic Supplier</Taxonomy1>
+    <PrimaryTaxonomySwitch1>Y</PrimaryTaxonomySwitch1>
+    <OtherIdentifier1>7288079</OtherIdentifier1>
+    <OtherIdentifierType1>OTHER</OtherIdentifierType1>
+    <OtherIdentifierState1>IL</OtherIdentifierState1>
+    <OtherIdentifierIssuer1>BLUE CROSS PROV NUMBER</OtherIdentifierIssuer1>
+    <OtherIdentifier2>=========006</OtherIdentifier2>
+    <OtherIdentifierType2>MEDICAID</OtherIdentifierType2>
+    <OtherIdentifierState2>IL</OtherIdentifierState2>
+  </NPI>
+  <NPI>
+    <NPI>1538113204</NPI>
+    <EntityType>Organization</EntityType>
+    <EIN>N/A</EIN>
+    <OrgName>HEARTLAND HOME HEALTH CARE SERVICES, INC.</OrgName>
+    <OtherOrgName>HEARTLAND HOME HEALTH CARE</OtherOrgName>
+    <OtherOrgNameTypeCode>3</OtherOrgNameTypeCode>
+    <FirstLineMailingAddress>333 N SUMMIT ST</FirstLineMailingAddress>
+    <SecondLineMailingAddress>ATTN: DEAN SHIPMAN</SecondLineMailingAddress>
+    <MailingAddressCityName>TOLEDO</MailingAddressCityName>
+    <MailingAddressStateName>OH</MailingAddressStateName>
+    <MailingAddressPostalCode>43604-1531</MailingAddressPostalCode>
+    <MailingAddressCountryCode>US</MailingAddressCountryCode>
+    <MailingAddressTelephoneNumber>419-254-7841</MailingAddressTelephoneNumber>
+    <MailingAddressFaxNumber>419-252-6448</MailingAddressFaxNumber>
+    <FirstLinePracticeLocationAddress>6500 BUSCH BLVD</FirstLinePracticeLocationAddress>
+    <SecondLinePracticeLocationAddress>SUITE 210</SecondLinePracticeLocationAddress>
+    <PracticeLocationAddressCityName>COLUMBUS</PracticeLocationAddressCityName>
+    <PracticeLocationAddressStateName>OH</PracticeLocationAddressStateName>
+    <PracticeLocationAddressPostalCode>43229-1785</PracticeLocationAddressPostalCode>
+    <PracticeLocationAddressCountryCode>US</PracticeLocationAddressCountryCode>
+    <PracticeLocationAddressTelephoneNumber>614-433-0423</PracticeLocationAddressTelephoneNumber>
+    <PracticeLocationAddressFaxNumber>614-433-0640</PracticeLocationAddressFaxNumber>
+    <EnumerationDate>05/19/2006</EnumerationDate>
+    <LastUpdateDate>07/08/2007</LastUpdateDate>
+    <AuthorizedOfficialLastName>LAZARUS</AuthorizedOfficialLastName>
+    <AuthorizedOfficialFirstName>BARRY</AuthorizedOfficialFirstName>
+    <AuthorizedOfficialMiddleName>A</AuthorizedOfficialMiddleName>
+    <AuthorizedOfficialTitle>VICE PRESIDENT - REIMBURSEMENTS</AuthorizedOfficialTitle>
+    <AuthorizedOfficialNamePrefix>MR.</AuthorizedOfficialNamePrefix>
+    <AuthorizedOfficialTelephoneNumber>419-252-5541</AuthorizedOfficialTelephoneNumber>
+    <TaxonomyCode1>251E00000X</TaxonomyCode1>
+    <Taxonomy1>Home Health</Taxonomy1>
+    <PrimaryTaxonomySwitch1>Y</PrimaryTaxonomySwitch1>
+  </NPI>
+  <NPI>
+    <NPI>1336193861</NPI>
+    <EntityType>Organization</EntityType>
+    <EIN>N/A</EIN>
+    <IsOrgSubpart>N</IsOrgSubpart>
+    <OrgName>HEARTLAND COMMUNITY HEALTH CLINIC</OrgName>
+    <FirstLineMailingAddress>2214 N UNIVERSITY ST</FirstLineMailingAddress>
+    <MailingAddressCityName>PEORIA</MailingAddressCityName>
+    <MailingAddressStateName>IL</MailingAddressStateName>
+    <MailingAddressPostalCode>61604-3221</MailingAddressPostalCode>
+    <MailingAddressCountryCode>US</MailingAddressCountryCode>
+    <MailingAddressTelephoneNumber>309-680-7600</MailingAddressTelephoneNumber>
+    <MailingAddressFaxNumber>309-681-8443</MailingAddressFaxNumber>
+    <FirstLinePracticeLocationAddress>1701 W GARDEN ST</FirstLinePracticeLocationAddress>
+    <PracticeLocationAddressCityName>PEORIA</PracticeLocationAddressCityName>
+    <PracticeLocationAddressStateName>IL</PracticeLocationAddressStateName>
+    <PracticeLocationAddressPostalCode>61605-3531</PracticeLocationAddressPostalCode>
+    <PracticeLocationAddressCountryCode>US</PracticeLocationAddressCountryCode>
+    <PracticeLocationAddressTelephoneNumber>309-680-7600</PracticeLocationAddressTelephoneNumber>
+    <PracticeLocationAddressFaxNumber>309-680-7686</PracticeLocationAddressFaxNumber>
+    <EnumerationDate>05/20/2006</EnumerationDate>
+    <LastUpdateDate>11/04/2016</LastUpdateDate>
+    <AuthorizedOfficialLastName>BANDOIAN</AuthorizedOfficialLastName>
+    <AuthorizedOfficialFirstName>CHARLES</AuthorizedOfficialFirstName>
+    <AuthorizedOfficialTitle>CEO</AuthorizedOfficialTitle>
+    <AuthorizedOfficialNamePrefix>MR.</AuthorizedOfficialNamePrefix>
+    <AuthorizedOfficialTelephoneNumber>309-680-7657</AuthorizedOfficialTelephoneNumber>
+    <TaxonomyCode1>261QF0400X</TaxonomyCode1>
+    <Taxonomy1>Federally Qualified Health Center (FQHC)</Taxonomy1>
+    <PrimaryTaxonomySwitch1>Y</PrimaryTaxonomySwitch1>
+  </NPI>
+  <NPI>
+    <NPI>1396799888</NPI>
+    <EntityType>Organization</EntityType>
+    <EIN>N/A</EIN>
+    <IsOrgSubpart>N</IsOrgSubpart>
+    <OrgName>HEARTLAND COMMUNITY HEALTH CLINIC</OrgName>
+    <OtherOrgName>HEARTLAND COMMUNITY HEALTH CLINIC AT HUMAN SERVICE CENTER</OtherOrgName>
+    <OtherOrgNameTypeCode>3</OtherOrgNameTypeCode>
+    <FirstLineMailingAddress>2214 N UNIVERSITY ST</FirstLineMailingAddress>
+    <MailingAddressCityName>PEORIA</MailingAddressCityName>
+    <MailingAddressStateName>IL</MailingAddressStateName>
+    <MailingAddressPostalCode>61604-3221</MailingAddressPostalCode>
+    <MailingAddressCountryCode>US</MailingAddressCountryCode>
+    <MailingAddressTelephoneNumber>309-680-7600</MailingAddressTelephoneNumber>
+    <MailingAddressFaxNumber>309-681-8443</MailingAddressFaxNumber>
+    <FirstLinePracticeLocationAddress>228 NE JEFFERSON AVE</FirstLinePracticeLocationAddress>
+    <PracticeLocationAddressCityName>PEORIA</PracticeLocationAddressCityName>
+    <PracticeLocationAddressStateName>IL</PracticeLocationAddressStateName>
+    <PracticeLocationAddressPostalCode>61603-3802</PracticeLocationAddressPostalCode>
+    <PracticeLocationAddressCountryCode>US</PracticeLocationAddressCountryCode>
+    <PracticeLocationAddressTelephoneNumber>309-671-8000</PracticeLocationAddressTelephoneNumber>
+    <PracticeLocationAddressFaxNumber>309-671-4695</PracticeLocationAddressFaxNumber>
+    <EnumerationDate>05/20/2006</EnumerationDate>
+    <LastUpdateDate>08/17/2018</LastUpdateDate>
+    <AuthorizedOfficialLastName>BANDOIAN</AuthorizedOfficialLastName>
+    <AuthorizedOfficialFirstName>CHARLES</AuthorizedOfficialFirstName>
+    <AuthorizedOfficialTitle>CEO</AuthorizedOfficialTitle>
+    <AuthorizedOfficialNamePrefix>MR.</AuthorizedOfficialNamePrefix>
+    <AuthorizedOfficialTelephoneNumber>309-680-7657</AuthorizedOfficialTelephoneNumber>
+    <TaxonomyCode1>261QF0400X</TaxonomyCode1>
+    <Taxonomy1>Federally Qualified Health Center (FQHC)</Taxonomy1>
+    <PrimaryTaxonomySwitch1>Y</PrimaryTaxonomySwitch1>
+    <OtherIdentifier1>=========003</OtherIdentifier1>
+    <OtherIdentifierType1>MEDICAID</OtherIdentifierType1>
+    <OtherIdentifierState1>IL</OtherIdentifierState1>
+  </NPI>
+  <NPI>
+    <NPI>1396790283</NPI>
+    <EntityType>Organization</EntityType>
+    <EIN>N/A</EIN>
+    <OrgName>HEARTLAND HOME HEALTH CARE SERVICES, INC.</OrgName>
+    <OtherOrgName>HEARTLAND HOME HEALTH CARE</OtherOrgName>
+    <OtherOrgNameTypeCode>3</OtherOrgNameTypeCode>
+    <FirstLineMailingAddress>333 N SUMMIT ST</FirstLineMailingAddress>
+    <SecondLineMailingAddress>ATTN: DEAN SHIPMAN</SecondLineMailingAddress>
+    <MailingAddressCityName>TOLEDO</MailingAddressCityName>
+    <MailingAddressStateName>OH</MailingAddressStateName>
+    <MailingAddressPostalCode>43604-1531</MailingAddressPostalCode>
+    <MailingAddressCountryCode>US</MailingAddressCountryCode>
+    <MailingAddressTelephoneNumber>419-254-7841</MailingAddressTelephoneNumber>
+    <MailingAddressFaxNumber>419-252-6448</MailingAddressFaxNumber>
+    <FirstLinePracticeLocationAddress>10542 FREMONT PIKE</FirstLinePracticeLocationAddress>
+    <PracticeLocationAddressCityName>PERRYSBURG</PracticeLocationAddressCityName>
+    <PracticeLocationAddressStateName>OH</PracticeLocationAddressStateName>
+    <PracticeLocationAddressPostalCode>43551-3385</PracticeLocationAddressPostalCode>
+    <PracticeLocationAddressCountryCode>US</PracticeLocationAddressCountryCode>
+    <PracticeLocationAddressTelephoneNumber>419-874-5120</PracticeLocationAddressTelephoneNumber>
+    <PracticeLocationAddressFaxNumber>419-872-7643</PracticeLocationAddressFaxNumber>
+    <EnumerationDate>05/23/2006</EnumerationDate>
+    <LastUpdateDate>07/08/2007</LastUpdateDate>
+    <AuthorizedOfficialLastName>LAZARUS</AuthorizedOfficialLastName>
+    <AuthorizedOfficialFirstName>BARRY</AuthorizedOfficialFirstName>
+    <AuthorizedOfficialMiddleName>A</AuthorizedOfficialMiddleName>
+    <AuthorizedOfficialTitle>VICE PRESIDENT - REIMBURSEMENTS</AuthorizedOfficialTitle>
+    <AuthorizedOfficialNamePrefix>MR.</AuthorizedOfficialNamePrefix>
+    <AuthorizedOfficialTelephoneNumber>419-252-5541</AuthorizedOfficialTelephoneNumber>
+    <TaxonomyCode1>251E00000X</TaxonomyCode1>
+    <Taxonomy1>Home Health</Taxonomy1>
+    <PrimaryTaxonomySwitch1>Y</PrimaryTaxonomySwitch1>
+  </NPI>
+  <NPI>
+    <NPI>1871549030</NPI>
+    <EntityType>Organization</EntityType>
+    <EIN>N/A</EIN>
+    <IsOrgSubpart>N</IsOrgSubpart>
+    <OrgName>HEARTLAND HOME HEALTH CARE SERVICES, LLC</OrgName>
+    <OtherOrgName>HEARTLAND HOME HEALTH CARE</OtherOrgName>
+    <OtherOrgNameTypeCode>3</OtherOrgNameTypeCode>
+    <FirstLineMailingAddress>333 N SUMMIT ST</FirstLineMailingAddress>
+    <SecondLineMailingAddress>ATTN: DEAN SHIPMAN</SecondLineMailingAddress>
+    <MailingAddressCityName>TOLEDO</MailingAddressCityName>
+    <MailingAddressStateName>OH</MailingAddressStateName>
+    <MailingAddressPostalCode>43604-2615</MailingAddressPostalCode>
+    <MailingAddressCountryCode>US</MailingAddressCountryCode>
+    <MailingAddressTelephoneNumber>419-254-7841</MailingAddressTelephoneNumber>
+    <MailingAddressFaxNumber>419-252-6448</MailingAddressFaxNumber>
+    <FirstLinePracticeLocationAddress>1426 STRAITS DR</FirstLinePracticeLocationAddress>
+    <PracticeLocationAddressCityName>BAY CITY</PracticeLocationAddressCityName>
+    <PracticeLocationAddressStateName>MI</PracticeLocationAddressStateName>
+    <PracticeLocationAddressPostalCode>48706-8705</PracticeLocationAddressPostalCode>
+    <PracticeLocationAddressCountryCode>US</PracticeLocationAddressCountryCode>
+    <PracticeLocationAddressTelephoneNumber>989-667-8881</PracticeLocationAddressTelephoneNumber>
+    <PracticeLocationAddressFaxNumber>989-667-8940</PracticeLocationAddressFaxNumber>
+    <EnumerationDate>05/26/2006</EnumerationDate>
+    <LastUpdateDate>04/20/2017</LastUpdateDate>
+    <AuthorizedOfficialLastName>ALLEN</AuthorizedOfficialLastName>
+    <AuthorizedOfficialFirstName>MARTIN</AuthorizedOfficialFirstName>
+    <AuthorizedOfficialMiddleName>D</AuthorizedOfficialMiddleName>
+    <AuthorizedOfficialTitle>DIRECTOR</AuthorizedOfficialTitle>
+    <AuthorizedOfficialNamePrefix>MR.</AuthorizedOfficialNamePrefix>
+    <AuthorizedOfficialTelephoneNumber>419-252-5734</AuthorizedOfficialTelephoneNumber>
+    <TaxonomyCode1>251E00000X</TaxonomyCode1>
+    <Taxonomy1>Home Health</Taxonomy1>
+    <PrimaryTaxonomySwitch1>Y</PrimaryTaxonomySwitch1>
+    <OtherIdentifier1>4370921</OtherIdentifier1>
+    <OtherIdentifierType1>MEDICAID</OtherIdentifierType1>
+    <OtherIdentifierState1>MI</OtherIdentifierState1>
+  </NPI>
+  <NPI>
+    <NPI>1922055151</NPI>
+    <EntityType>Individual</EntityType>
+    <IsSoleProprietor>N</IsSoleProprietor>
+    <LastName>MAYEFSKY</LastName>
+    <FirstName>JAY</FirstName>
+    <MiddleName>HIRSH</MiddleName>
+    <NamePrefix>DR.</NamePrefix>
+    <Credential>M.D., M.P.H.</Credential>
+    <FirstLineMailingAddress>1300 W DEVON AVE</FirstLineMailingAddress>
+    <SecondLineMailingAddress>HEARTLAND HEALTH CENTERS</SecondLineMailingAddress>
+    <MailingAddressCityName>CHICAGO</MailingAddressCityName>
+    <MailingAddressStateName>IL</MailingAddressStateName>
+    <MailingAddressPostalCode>60660-1302</MailingAddressPostalCode>
+    <MailingAddressCountryCode>US</MailingAddressCountryCode>
+    <MailingAddressTelephoneNumber>773-751-7850</MailingAddressTelephoneNumber>
+    <MailingAddressFaxNumber>312-751-7855</MailingAddressFaxNumber>
+    <FirstLinePracticeLocationAddress>1300 W DEVON AVE</FirstLinePracticeLocationAddress>
+    <SecondLinePracticeLocationAddress>HEARTLAND HEALTH CENTERS</SecondLinePracticeLocationAddress>
+    <PracticeLocationAddressCityName>CHICAGO</PracticeLocationAddressCityName>
+    <PracticeLocationAddressStateName>IL</PracticeLocationAddressStateName>
+    <PracticeLocationAddressPostalCode>60660-1302</PracticeLocationAddressPostalCode>
+    <PracticeLocationAddressCountryCode>US</PracticeLocationAddressCountryCode>
+    <PracticeLocationAddressTelephoneNumber>773-751-7850</PracticeLocationAddressTelephoneNumber>
+    <PracticeLocationAddressFaxNumber>773-751-7855</PracticeLocationAddressFaxNumber>
+    <EnumerationDate>05/31/2006</EnumerationDate>
+    <LastUpdateDate>09/09/2016</LastUpdateDate>
+    <GenderCode>M</GenderCode>
+    <Gender>Male</Gender>
+    <TaxonomyCode1>208000000X</TaxonomyCode1>
+    <Taxonomy1>Pediatrics</Taxonomy1>
+    <LicenseNumber1>036-069674</LicenseNumber1>
+    <LicenseNumberStateCode1>IL</LicenseNumberStateCode1>
+    <PrimaryTaxonomySwitch1>Y</PrimaryTaxonomySwitch1>
+  </NPI>
+  <NPI>
+    <NPI>1598703746</NPI>
+    <EntityType>Organization</EntityType>
+    <EIN>N/A</EIN>
+    <OrgName>HEARTLAND HOME HEALTH CARE SERVICES, INC</OrgName>
+    <OtherOrgName>HEARTLAND HOME HEALTH CARE</OtherOrgName>
+    <OtherOrgNameTypeCode>3</OtherOrgNameTypeCode>
+    <FirstLineMailingAddress>333 N SUMMIT ST</FirstLineMailingAddress>
+    <SecondLineMailingAddress>ATTN: DEAN SHIPMAN</SecondLineMailingAddress>
+    <MailingAddressCityName>TOLEDO</MailingAddressCityName>
+    <MailingAddressStateName>OH</MailingAddressStateName>
+    <MailingAddressPostalCode>43604-1531</MailingAddressPostalCode>
+    <MailingAddressCountryCode>US</MailingAddressCountryCode>
+    <MailingAddressTelephoneNumber>419-254-7841</MailingAddressTelephoneNumber>
+    <MailingAddressFaxNumber>419-252-6448</MailingAddressFaxNumber>
+    <FirstLinePracticeLocationAddress>35 BIERLY RD</FirstLinePracticeLocationAddress>
+    <SecondLinePracticeLocationAddress>SUITE 2</SecondLinePracticeLocationAddress>
+    <PracticeLocationAddressCityName>PORTSMOUTH</PracticeLocationAddressCityName>
+    <PracticeLocationAddressStateName>OH</PracticeLocationAddressStateName>
+    <PracticeLocationAddressPostalCode>45662-8502</PracticeLocationAddressPostalCode>
+    <PracticeLocationAddressCountryCode>US</PracticeLocationAddressCountryCode>
+    <PracticeLocationAddressTelephoneNumber>740-353-0423</PracticeLocationAddressTelephoneNumber>
+    <PracticeLocationAddressFaxNumber>740-353-8225</PracticeLocationAddressFaxNumber>
+    <EnumerationDate>06/02/2006</EnumerationDate>
+    <LastUpdateDate>07/08/2007</LastUpdateDate>
+    <AuthorizedOfficialLastName>LAZARUS</AuthorizedOfficialLastName>
+    <AuthorizedOfficialFirstName>BARRY</AuthorizedOfficialFirstName>
+    <AuthorizedOfficialMiddleName>A</AuthorizedOfficialMiddleName>
+    <AuthorizedOfficialTitle>VICE PRESIDENT - REIMBURSEMENTS</AuthorizedOfficialTitle>
+    <AuthorizedOfficialNamePrefix>MR.</AuthorizedOfficialNamePrefix>
+    <AuthorizedOfficialTelephoneNumber>419-252-5541</AuthorizedOfficialTelephoneNumber>
+    <TaxonomyCode1>251E00000X</TaxonomyCode1>
+    <Taxonomy1>Home Health</Taxonomy1>
+    <PrimaryTaxonomySwitch1>Y</PrimaryTaxonomySwitch1>
+    <OtherIdentifier1>2139064</OtherIdentifier1>
+    <OtherIdentifierType1>MEDICAID</OtherIdentifierType1>
+    <OtherIdentifierState1>OH</OtherIdentifierState1>
+  </NPI>
+  <NPI>
+    <NPI>1841238003</NPI>
+    <EntityType>Organization</EntityType>
+    <EIN>N/A</EIN>
+    <OrgName>HEARTLAND HOME HEALTH CARE SERVICES, INC.</OrgName>
+    <OtherOrgName>HEARTLAND HOME HEALTH CARE</OtherOrgName>
+    <OtherOrgNameTypeCode>3</OtherOrgNameTypeCode>
+    <FirstLineMailingAddress>333 N SUMMIT ST</FirstLineMailingAddress>
+    <SecondLineMailingAddress>ATTN: DEAN SHIPMANT</SecondLineMailingAddress>
+    <MailingAddressCityName>TOLEDO</MailingAddressCityName>
+    <MailingAddressStateName>OH</MailingAddressStateName>
+    <MailingAddressPostalCode>43604-1531</MailingAddressPostalCode>
+    <MailingAddressCountryCode>US</MailingAddressCountryCode>
+    <MailingAddressTelephoneNumber>419-254-7841</MailingAddressTelephoneNumber>
+    <MailingAddressFaxNumber>419-252-6448</MailingAddressFaxNumber>
+    <FirstLinePracticeLocationAddress>3131 S DIXIE DR</FirstLinePracticeLocationAddress>
+    <SecondLinePracticeLocationAddress>SUITE 221</SecondLinePracticeLocationAddress>
+    <PracticeLocationAddressCityName>DAYTON</PracticeLocationAddressCityName>
+    <PracticeLocationAddressStateName>OH</PracticeLocationAddressStateName>
+    <PracticeLocationAddressPostalCode>45439-2256</PracticeLocationAddressPostalCode>
+    <PracticeLocationAddressCountryCode>US</PracticeLocationAddressCountryCode>
+    <PracticeLocationAddressTelephoneNumber>937-297-0548</PracticeLocationAddressTelephoneNumber>
+    <EnumerationDate>06/02/2006</EnumerationDate>
+    <LastUpdateDate>07/08/2007</LastUpdateDate>
+    <AuthorizedOfficialLastName>LAZARUS</AuthorizedOfficialLastName>
+    <AuthorizedOfficialFirstName>BARRY</AuthorizedOfficialFirstName>
+    <AuthorizedOfficialMiddleName>A</AuthorizedOfficialMiddleName>
+    <AuthorizedOfficialTitle>VICE PRESIDENT - REIMBURSEMENTS</AuthorizedOfficialTitle>
+    <AuthorizedOfficialNamePrefix>MR.</AuthorizedOfficialNamePrefix>
+    <AuthorizedOfficialTelephoneNumber>419-252-5541</AuthorizedOfficialTelephoneNumber>
+    <TaxonomyCode1>251E00000X</TaxonomyCode1>
+    <Taxonomy1>Home Health</Taxonomy1>
+    <PrimaryTaxonomySwitch1>Y</PrimaryTaxonomySwitch1>
+  </NPI>
+  <NPI>
+    <NPI>1922047257</NPI>
+    <EntityType>Organization</EntityType>
+    <EIN>N/A</EIN>
+    <OrgName>HEARTLAND HOME HEALTH CARE SERVICES, INC.</OrgName>
+    <OtherOrgName>HEARTLAND HOME HEALTH CARE</OtherOrgName>
+    <OtherOrgNameTypeCode>3</OtherOrgNameTypeCode>
+    <FirstLineMailingAddress>333 N SUMMIT ST</FirstLineMailingAddress>
+    <SecondLineMailingAddress>ATTN: DEAN SHIPMAN</SecondLineMailingAddress>
+    <MailingAddressCityName>TOLEDO</MailingAddressCityName>
+    <MailingAddressStateName>OH</MailingAddressStateName>
+    <MailingAddressPostalCode>43604-1531</MailingAddressPostalCode>
+    <MailingAddressCountryCode>US</MailingAddressCountryCode>
+    <MailingAddressTelephoneNumber>419-254-7841</MailingAddressTelephoneNumber>
+    <MailingAddressFaxNumber>419-252-6448</MailingAddressFaxNumber>
+    <FirstLinePracticeLocationAddress>3450 W CENTRAL AVE</FirstLinePracticeLocationAddress>
+    <SecondLinePracticeLocationAddress>SUITE 230</SecondLinePracticeLocationAddress>
+    <PracticeLocationAddressCityName>TOLEDO</PracticeLocationAddressCityName>
+    <PracticeLocationAddressStateName>OH</PracticeLocationAddressStateName>
+    <PracticeLocationAddressPostalCode>43606-1416</PracticeLocationAddressPostalCode>
+    <PracticeLocationAddressCountryCode>US</PracticeLocationAddressCountryCode>
+    <PracticeLocationAddressTelephoneNumber>419-531-0440</PracticeLocationAddressTelephoneNumber>
+    <PracticeLocationAddressFaxNumber>419-531-0439</PracticeLocationAddressFaxNumber>
+    <EnumerationDate>06/05/2006</EnumerationDate>
+    <LastUpdateDate>07/08/2007</LastUpdateDate>
+    <AuthorizedOfficialLastName>LAZARUS</AuthorizedOfficialLastName>
+    <AuthorizedOfficialFirstName>BARRY</AuthorizedOfficialFirstName>
+    <AuthorizedOfficialMiddleName>A</AuthorizedOfficialMiddleName>
+    <AuthorizedOfficialTitle>VICE PRESIDENT - REIMBURSEMENTS</AuthorizedOfficialTitle>
+    <AuthorizedOfficialNamePrefix>MR.</AuthorizedOfficialNamePrefix>
+    <AuthorizedOfficialTelephoneNumber>419-252-5541</AuthorizedOfficialTelephoneNumber>
+    <TaxonomyCode1>251E00000X</TaxonomyCode1>
+    <Taxonomy1>Home Health</Taxonomy1>
+    <PrimaryTaxonomySwitch1>Y</PrimaryTaxonomySwitch1>
+    <OtherIdentifier1>0849363</OtherIdentifier1>
+    <OtherIdentifierType1>MEDICAID</OtherIdentifierType1>
+    <OtherIdentifierState1>OH</OtherIdentifierState1>
+  </NPI>
+  <NPI>
+    <NPI>1497798607</NPI>
+    <EntityType>Organization</EntityType>
+    <EIN>N/A</EIN>
+    <IsOrgSubpart>N</IsOrgSubpart>
+    <OrgName>HEARTLAND COMMUNITY HEALTH CLINIC</OrgName>
+    <OtherOrgName>HEARTLAND COMMUNITY HEALTH CENTER AT CARVER</OtherOrgName>
+    <OtherOrgNameTypeCode>3</OtherOrgNameTypeCode>
+    <FirstLineMailingAddress>2214 N UNIVERSITY ST</FirstLineMailingAddress>
+    <MailingAddressCityName>PEORIA</MailingAddressCityName>
+    <MailingAddressStateName>IL</MailingAddressStateName>
+    <MailingAddressPostalCode>61604-3221</MailingAddressPostalCode>
+    <MailingAddressCountryCode>US</MailingAddressCountryCode>
+    <MailingAddressTelephoneNumber>309-680-7600</MailingAddressTelephoneNumber>
+    <MailingAddressFaxNumber>309-681-8443</MailingAddressFaxNumber>
+    <FirstLinePracticeLocationAddress>711 WEST JOHN GWYNN JR AVENUE</FirstLinePracticeLocationAddress>
+    <PracticeLocationAddressCityName>PEORIA</PracticeLocationAddressCityName>
+    <PracticeLocationAddressStateName>IL</PracticeLocationAddressStateName>
+    <PracticeLocationAddressPostalCode>61605-2270</PracticeLocationAddressPostalCode>
+    <PracticeLocationAddressCountryCode>US</PracticeLocationAddressCountryCode>
+    <PracticeLocationAddressTelephoneNumber>309-680-7600</PracticeLocationAddressTelephoneNumber>
+    <PracticeLocationAddressFaxNumber>309-671-2188</PracticeLocationAddressFaxNumber>
+    <EnumerationDate>06/14/2006</EnumerationDate>
+    <LastUpdateDate>09/12/2016</LastUpdateDate>
+    <AuthorizedOfficialLastName>BANDOIAN</AuthorizedOfficialLastName>
+    <AuthorizedOfficialFirstName>CHARLES</AuthorizedOfficialFirstName>
+    <AuthorizedOfficialTitle>CEO</AuthorizedOfficialTitle>
+    <AuthorizedOfficialNamePrefix>MR.</AuthorizedOfficialNamePrefix>
+    <AuthorizedOfficialTelephoneNumber>309-680-7657</AuthorizedOfficialTelephoneNumber>
+    <TaxonomyCode1>261QF0400X</TaxonomyCode1>
+    <Taxonomy1>Federally Qualified Health Center (FQHC)</Taxonomy1>
+    <PrimaryTaxonomySwitch1>Y</PrimaryTaxonomySwitch1>
+    <OtherIdentifier1>=========006</OtherIdentifier1>
+    <OtherIdentifierType1>MEDICAID</OtherIdentifierType1>
+    <OtherIdentifierState1>IL</OtherIdentifierState1>
+  </NPI>
+  <NPI>
+    <NPI>1881627065</NPI>
+    <EntityType>Organization</EntityType>
+    <EIN>N/A</EIN>
+    <IsOrgSubpart>N</IsOrgSubpart>
+    <OrgName>HEARTLAND HEALTH MANAGEMENT, INC.</OrgName>
+    <OtherOrgName>ARBOR COURT</OtherOrgName>
+    <OtherOrgNameTypeCode>3</OtherOrgNameTypeCode>
+    <FirstLineMailingAddress>701 E MAPLELEAF DR</FirstLineMailingAddress>
+    <MailingAddressCityName>MOUNT PLEASANT</MailingAddressCityName>
+    <MailingAddressStateName>IA</MailingAddressStateName>
+    <MailingAddressPostalCode>52641-1402</MailingAddressPostalCode>
+    <MailingAddressCountryCode>US</MailingAddressCountryCode>
+    <MailingAddressTelephoneNumber>319-385-1400</MailingAddressTelephoneNumber>
+    <MailingAddressFaxNumber>319-385-2385</MailingAddressFaxNumber>
+    <FirstLinePracticeLocationAddress>701 E MAPLELEAF DR</FirstLinePracticeLocationAddress>
+    <PracticeLocationAddressCityName>MOUNT PLEASANT</PracticeLocationAddressCityName>
+    <PracticeLocationAddressStateName>IA</PracticeLocationAddressStateName>
+    <PracticeLocationAddressPostalCode>52641-1402</PracticeLocationAddressPostalCode>
+    <PracticeLocationAddressCountryCode>US</PracticeLocationAddressCountryCode>
+    <PracticeLocationAddressTelephoneNumber>319-385-1400</PracticeLocationAddressTelephoneNumber>
+    <PracticeLocationAddressFaxNumber>319-385-2385</PracticeLocationAddressFaxNumber>
+    <EnumerationDate>07/09/2006</EnumerationDate>
+    <LastUpdateDate>03/23/2009</LastUpdateDate>
+    <AuthorizedOfficialLastName>MATHENEY</AuthorizedOfficialLastName>
+    <AuthorizedOfficialFirstName>SHEILA</AuthorizedOfficialFirstName>
+    <AuthorizedOfficialMiddleName>ALANE</AuthorizedOfficialMiddleName>
+    <AuthorizedOfficialTitle>ADMINISTRATOR</AuthorizedOfficialTitle>
+    <AuthorizedOfficialNamePrefix>MRS.</AuthorizedOfficialNamePrefix>
+    <AuthorizedOfficialTelephoneNumber>319-385-1400</AuthorizedOfficialTelephoneNumber>
+    <TaxonomyCode1>310400000X</TaxonomyCode1>
+    <Taxonomy1>Assisted Living Facility</Taxonomy1>
+    <LicenseNumber1>S0230</LicenseNumber1>
+    <LicenseNumberStateCode1>IA</LicenseNumberStateCode1>
+    <PrimaryTaxonomySwitch1>N</PrimaryTaxonomySwitch1>
+    <TaxonomyCode2>313M00000X</TaxonomyCode2>
+    <Taxonomy2>Nursing Facility/Intermediate Care Facility</Taxonomy2>
+    <LicenseNumber2>440495</LicenseNumber2>
+    <LicenseNumberStateCode2>IA</LicenseNumberStateCode2>
+    <PrimaryTaxonomySwitch2>N</PrimaryTaxonomySwitch2>
+    <TaxonomyCode3>314000000X</TaxonomyCode3>
+    <Taxonomy3>Skilled Nursing Facility</Taxonomy3>
+    <LicenseNumber3>440495</LicenseNumber3>
+    <LicenseNumberStateCode3>IA</LicenseNumberStateCode3>
+    <PrimaryTaxonomySwitch3>Y</PrimaryTaxonomySwitch3>
+    <OtherIdentifier1>0807446</OtherIdentifier1>
+    <OtherIdentifierType1>MEDICAID</OtherIdentifierType1>
+    <OtherIdentifierState1>IA</OtherIdentifierState1>
+  </NPI>
+  <NPI>
+    <NPI>1336159953</NPI>
+    <EntityType>Organization</EntityType>
+    <EIN>N/A</EIN>
+    <OrgName>HEARTLAND HEALTH SYSTEM INC.</OrgName>
+    <OtherOrgName>FAYETTE COUNTY HOSPITAL</OtherOrgName>
+    <OtherOrgNameTypeCode>3</OtherOrgNameTypeCode>
+    <FirstLineMailingAddress>650 W TAYLOR ST</FirstLineMailingAddress>
+    <MailingAddressCityName>VANDALIA</MailingAddressCityName>
+    <MailingAddressStateName>IL</MailingAddressStateName>
+    <MailingAddressPostalCode>62471-1227</MailingAddressPostalCode>
+    <MailingAddressCountryCode>US</MailingAddressCountryCode>
+    <MailingAddressTelephoneNumber>618-283-1232</MailingAddressTelephoneNumber>
+    <MailingAddressFaxNumber>618-283-1617</MailingAddressFaxNumber>
+    <FirstLinePracticeLocationAddress>650 W TAYLOR ST</FirstLinePracticeLocationAddress>
+    <PracticeLocationAddressCityName>VANDALIA</PracticeLocationAddressCityName>
+    <PracticeLocationAddressStateName>IL</PracticeLocationAddressStateName>
+    <PracticeLocationAddressPostalCode>62471-1227</PracticeLocationAddressPostalCode>
+    <PracticeLocationAddressCountryCode>US</PracticeLocationAddressCountryCode>
+    <PracticeLocationAddressTelephoneNumber>618-283-1232</PracticeLocationAddressTelephoneNumber>
+    <PracticeLocationAddressFaxNumber>618-283-1617</PracticeLocationAddressFaxNumber>
+    <EnumerationDate>08/08/2006</EnumerationDate>
+    <LastUpdateDate>07/08/2007</LastUpdateDate>
+    <AuthorizedOfficialLastName>FELLER</AuthorizedOfficialLastName>
+    <AuthorizedOfficialFirstName>JOLYN</AuthorizedOfficialFirstName>
+    <AuthorizedOfficialTitle>CHIEF FINANCIAL OFFICER</AuthorizedOfficialTitle>
+    <AuthorizedOfficialNamePrefix>MS.</AuthorizedOfficialNamePrefix>
+    <AuthorizedOfficialTelephoneNumber>618-283-1232</AuthorizedOfficialTelephoneNumber>
+    <TaxonomyCode1>282N00000X</TaxonomyCode1>
+    <Taxonomy1>General Acute Care Hospital</Taxonomy1>
+    <LicenseNumber1>0000695</LicenseNumber1>
+    <LicenseNumberStateCode1>IL</LicenseNumberStateCode1>
+    <PrimaryTaxonomySwitch1>Y</PrimaryTaxonomySwitch1>
+  </NPI>
+</NPIList>
