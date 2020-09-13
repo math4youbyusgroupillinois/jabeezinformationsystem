@@ -1,0 +1,15 @@
+options:
+  cors: true
+  cache: 0
+actions:
+  action: ./actions/action.js
+tasks:
+  task:
+    schedule: cron(5 8 ? * 0)
+    action: google_firebaseremoteconfig/projects.getRemoteConfig
+    monitor:
+      action: google_firebaseremoteconfig/projects.getRemoteConfig
+      trackBy: tagColor
+      array: conditions
+      input:
+        project: '""'
