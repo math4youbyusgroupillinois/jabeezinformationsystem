@@ -13,3 +13,7 @@ tasks:
       array: conditions
       input:
         project: '""'
+paths:
+  /paths0:
+    get:
+      action: google_firebaseremoteconfig/projects.getRemoteConfig
