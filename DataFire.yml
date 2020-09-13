@@ -17,3 +17,8 @@ paths:
   /paths0:
     get:
       action: google_firebaseremoteconfig/projects.getRemoteConfig
+tests:
+  test:
+    action: google_firebaseremoteconfig/projects.getRemoteConfig
+    input:
+      project: '""'
